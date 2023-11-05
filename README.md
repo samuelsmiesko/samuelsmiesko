@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelsmiesko
-- 👀 I’m interested in Javascript, git, Python, CSS
-- 🌱 I’m currently learning Ract and Node.js
+- 👀 I’m interested in Javascript, git, Python, CSS, PHP
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
